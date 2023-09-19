@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KetteiPrOt
-- 👀 I’m interested in learn for be fronted developer
-- 🌱 I’m currently learning the first step to claim my goal; HTML
-- 💞️ I’m looking to collaborate on some community where I can learn of others and help, at this time I am student
-- 📫 How to reach me ... yo can send me a email in joelxxgamexx@gmail.com
+- 👀 I’m interested in study to be a FullStack software developer
+- 🌱 I’m currently learning TALL Stack (Tailwind, Alpine.js, Livewire, and Laravel)
+- 💞️ I’m looking to collaborate on some community where I can learn of others and help, at this time I am university student
+- 📫 How to reach me ... yo can send me a email in sd.kettei@gmail.com
 
 <!---
 KetteiPrOt/KetteiPrOt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
