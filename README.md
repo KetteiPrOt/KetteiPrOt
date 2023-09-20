@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KetteiPrOt
+- 👋 Hi, I’m Fernando Mero!
 - 👀 I’m interested in study to be a FullStack software developer
 - 🌱 I’m currently learning TALL Stack (Tailwind, Alpine.js, Livewire, and Laravel)
 - 💞️ I’m looking to collaborate on some community where I can learn of others and help, at this time I am university student
